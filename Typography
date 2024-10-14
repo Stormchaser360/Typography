@@ -1,0 +1,28 @@
+<html>
+
+<head>
+    <h1><centre>I am going to Learn About Font Styling</centre></h1>
+    <style>
+        .text1 {
+            color: red;
+
+            font-size: 30px;
+        }
+
+        .p1 {
+            color: blue;
+            font-family: 'Times New Roman', Times, serif;
+        }
+    </style>
+
+<body>
+
+    <h3>My Examples</h3>
+
+    <p class="text1">This Is Example 1</p>
+
+    <p class="p1">This Is Example 2</p>
+</body>
+</head>
+
+</html>
